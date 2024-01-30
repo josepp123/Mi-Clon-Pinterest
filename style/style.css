@@ -115,14 +115,14 @@
 }
 
 
-/* .icons img:nth-child(4){
-    height: 10px;
-    width: 10px;
-} */
-.icons button{
+.icons img:nth-child(4){
+    height: 25px;
+    width: 25px;
+}
+/* .icons button{
     background-color: transparent;
     border: none;
    
-}
+} */
   
 
