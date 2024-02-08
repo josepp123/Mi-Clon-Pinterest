@@ -152,5 +152,5 @@ img{
     display: block;
 }
 img:hover{
-    
+    opacity: 0.5;
 }
